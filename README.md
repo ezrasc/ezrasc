@@ -1,6 +1,6 @@
 ## 👋 Hi I'm Ezra
 - :books: I went to school for a Bachelor's in Mechanical Engineering
-- :pencil2: I worked as a Test Engineering and Data Analyst for Engineering companies
+- :pencil2: I worked as a Test Engineering and Data Analyst for Automotive companies
 - 👀 I’m interested in Mechanical Engineering, Programming, Supply Chain Analysis, Economics, Data Analysis, Data Visualization, and dabbling in Data Science
 - 🌱 I’m currently learning auditing MITx Supply Chain, IBM Data Science Capstone, Python, Juypter, Git/Github
 - 💞️ I’m looking to collaborate on Open Source Data Analysis & Exploration, Supply Chain Analysis, Mechanical Engineering projects!
