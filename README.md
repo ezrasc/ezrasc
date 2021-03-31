@@ -1,8 +1,15 @@
-- 👋 Hi, I’m @ezrasc
-- 👀 I’m interested in Engineering (Focused on Mechanical), Test & Optimization Engineering, Network Engineering, Ethical Hacking, Supply Chain Analysis, Economics & Economic policies, Data Analysis, Data Visualization, and dabbling in Data Science
-- 🌱 I’m currently learning MITx Supply Chain, IBM Data Science Capstone, Python, Juypter, Basic Statistics
-- 💞️ I’m looking to collaborate on open source projects, Data Analysis & Exploration, Supply Chain Analysis, Mechanical test engineering projects
-- 📫 How to reach me 
+## 👋 Hi I'm Ezra
+- :books: I went to school for a Bachelor's in Mechanical Engineering
+- :pencil2: I worked as a Test Engineering and Data Analyst for Engineering companies
+- 👀 I’m interested in Mechanical Engineering, Programming, Supply Chain Analysis, Economics, Data Analysis, Data Visualization, and dabbling in Data Science
+- 🌱 I’m currently learning auditing MITx Supply Chain, IBM Data Science Capstone, Python, Juypter, Git/Github
+- 💞️ I’m looking to collaborate on Open Source Data Analysis & Exploration, Supply Chain Analysis, Mechanical Engineering projects!
+- Current Projects
+- References and Source Material
+- 📫 How to reach me (currently working on)
+
+Obviously I'm not the brightest in the bulb as I'm only beginning to understand different tools as my focus will be more on engineering, supply chain, and data analysis.You can see I'm trying to fix this README.md file :smile:
+
 
 <!---
 ezrasc/ezrasc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
